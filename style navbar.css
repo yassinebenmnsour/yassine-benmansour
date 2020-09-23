@@ -1,0 +1,111 @@
+.body {
+    background-color: #fff9f5;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    margin: 0;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #fff9f5;
+    position: relative;
+}
+
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+
+.topnav #myLinks {
+    display: none;
+}
+
+
+/* Style navigation menu links */
+
+.topnav a {
+    color: rgb(0, 0, 0);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+
+
+/* Style the hamburger menu */
+
+.topnav a.icon {
+    background: #fff9f5;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+
+/* Add a grey background color on mouse-over */
+
+.topnav a:hover {
+    background-color: #fff9f5;
+    color: black;
+}
+
+
+/* Style the active link (or home/logo) */
+
+.active {
+    background-color: #fff9f5;
+    color: #fff9f5;
+}
+
+.a {
+    background-color: #b4b4b4;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 5px 13px;
+    text-decoration: solid;
+    display: inline-block;
+}
+
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.html {
+    width: 98%;
+    background-color: #eb670f;
+}
+
+.css {
+    width: 98%;
+    background-color: #2696f1;
+}
+
+.js {
+    width: 79%;
+    background-color: #ffeb39f8;
+}
+
+.php {
+    width: 60%;
+    background-color: #7b7ac2;
+}
+
+.skillsMYSQL {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    width: 60%;
+    background-color: #058292;
+}
+
+.skillsC {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    width: 40%;
+    background-color: #0e3faa;
+}

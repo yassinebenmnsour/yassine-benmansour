@@ -1,0 +1,50 @@
+.footer {
+    text-align: center;
+    padding: 24px;
+    background-color: gainsboro;
+    color: rgb(168, 168, 168);
+}
+
+#fb {
+    background: #3B5998;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+#insta {
+    background: #b8003d;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+#linkd {
+    background: #007bb5;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
